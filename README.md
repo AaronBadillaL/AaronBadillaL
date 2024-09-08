@@ -7,10 +7,9 @@ Developer passionate about creating web applications and efficient solutions usi
 
 - 👯 I'm looking to collaborate on projects involving React, Docker, Node JS, Express.
 
-- 💬 Ask me about Angular best practices, how to build a api using .net or golang with gorm
-is this text good por my github presentation.
+- 💬 Ask me about Angular best practices, how to build a api using .net or golang with gorm.
 
-- ⚡ Fun fact: I love play board games
+- ⚡ Fun fact: I love play board games.
 
 ## 🛠️ My skills 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,angular,dotnet,go,py)](https://skillicons.dev)
