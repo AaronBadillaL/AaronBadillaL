@@ -11,6 +11,15 @@ Developer passionate about creating web applications and efficient solutions usi
 
 - ⚡ Fun fact: I love play board games.
 
+## 💡 My Experience 
+- **Full Stack Developer - Eprac Supply**
+ My role involves developing the backend and frontend logic of applications. I primarily use C# with Entity Framework for the backend, and I also utilize Go with Gorm for specific backend optimizations. On the frontend, I work with Angular and TypeScript to create an intuitive and responsive user interface. My goal is to deliver high-quality, efficient technology solutions that meet user needs and exceed expectations
+- **Full Stack Developer Internship - 4geeks** Application development, worked in backend making API’s, 
+creating new endpoints and giving maintenance to them.
+Also, I’ve worked on frontend projects 
+using Angular and Flutter, consuming API’s and displaying the 
+data 
+
 ## 🛠️ My skills 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,angular,dotnet,go,py)](https://skillicons.dev)
 
