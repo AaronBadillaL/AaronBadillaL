@@ -37,6 +37,12 @@ A web application to explore Magic: The Gathering cards using the Scryfall API.
 Features advanced filters, rarity and color categorization, and a clean UI to browse and search card sets.  
 Built with **React + TypeScript** for frontend and **modern CSS** for responsiveness.
 
+### 🗓️ [Reservations Backend API](https://github.com/AaronBadillaL/reservations-backend)
+A robust booking system backend designed for medical offices, coworking spaces, and professional services.  
+Features comprehensive user management with role-based access (CLIENT, PROFESSIONAL, ADMIN), schedule creation, booking management, and real-time notifications.  
+Built with **Node.js + TypeScript**, **PostgreSQL with Prisma ORM**, **JWT authentication**, and **email integration**.  
+Includes full debugging support, comprehensive DTOs, structured error handling, and security best practices.
+
 ### ⏳ More projects coming soon...
 
 ---
