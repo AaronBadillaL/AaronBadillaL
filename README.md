@@ -25,7 +25,7 @@ Also worked on frontend projects using **Angular** and **Flutter**, consuming AP
 ---
 
 ## 🛠️ My Skills 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,angular,dotnet,go,py,react,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,angular,dotnet,go,py,react,nodejs,sql)](https://skillicons.dev)
 
 ---
 
