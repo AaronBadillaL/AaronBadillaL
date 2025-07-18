@@ -5,7 +5,6 @@ Developer passionate about creating web applications and efficient solutions usi
 
 - 🌱 I'm currently learning more about Docker networking and orchestration using Kubernetes.
 - 👯 I'm looking to collaborate on projects involving React, Docker, Node JS, Express.
-- 💬 Ask me about Angular best practices, how to build an API using .NET or Golang with GORM.
 - ⚡ Fun fact: I love playing board games.
 
 ---
@@ -26,7 +25,7 @@ Also worked on frontend projects using **Angular** and **Flutter**, consuming AP
 ---
 
 ## 🛠️ My Skills 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,angular,dotnet,go,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,angular,dotnet,go,py,react,nodejs)](https://skillicons.dev)
 
 ---
 
